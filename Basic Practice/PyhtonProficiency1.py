@@ -64,3 +64,4 @@ plt.plot(z,np.tanh(z))
 plt.xlabel("z")
 plt.ylabel("f(z)")
 plt.show() 
+
